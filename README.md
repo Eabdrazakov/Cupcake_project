@@ -2,6 +2,8 @@
 
 #### By _**Ermek Abdrazakov**_
 
+![An image of a random](https://picsum.photos/200/300)
+
 ## Technologies Used
 
 * _HTML_
@@ -24,6 +26,6 @@ _This is a simple HTML and CSS allows to users to create band project_
 
 ## License
 
-_[GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License)
+_[GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License)_
 
 Copyright (c) _2023_ _Ermek Abdrzakov_
