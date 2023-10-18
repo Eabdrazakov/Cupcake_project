@@ -1,8 +1,6 @@
-# _Cupcake project_
+# Cupcake project
 
 #### By _**Ermek Abdrazakov**_
-
-![An image of a random](https://picsum.photos/200/300)
 
 ## Technologies Used
 
@@ -12,6 +10,8 @@
 ## Description
 
 _This is a simple HTML and CSS allows to users to create band project_
+
+![An image of a random](https://picsum.photos/200/300)
 
 ## Setup/Installation Requirements
 
